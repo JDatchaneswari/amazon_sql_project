@@ -1,7 +1,7 @@
 # Amazon-sales-analysis-with-SQL
 
 
-![image](https://github.com/patelshubham91/SQL-Projects/blob/main/Amazon-sales-analysis-with-SQL/Amazon-sales-analysis-with-SQL-main/Project%20Image.jpg)
+![image](https://github.com/JDatchaneswari/amazon_sql_project/blob/main/amazon.jpg)
 
 # OBJECTIVE
 In today's competitive business landscape, effective sales management is crucial for reducing costs and maximizing profits. The project aims to analyze sales data from Amazon to identify areas for improvement and strategic changes. By examining this data, businesses can pinpoint inefficiencies in their operations, identify areas of loss, and develop strategies to mitigate these losses. Ultimately, this project will provide valuable insights to help businesses optimize their sales performance and achieve greater success in the marketplace.
@@ -9,7 +9,7 @@ In today's competitive business landscape, effective sales management is crucial
 # ABOUT DATA
 The document contains sales data for various branches in Yangon, Naypyitaw, and Mandalay including information on customer types, products, prices, quantities and payment methods. The sales data shows a variety of product lines such as health and beauty, electronic accessories, home and lifestyle, foodand beverages, fashion accessories and sports and travel. The total sales amount for each transaction includes a 5% tax, cost of goodssold (COGS), gross margin percentage, and gross income. The ratings provided for each transaction range from 4.1 to 9.6 indicating the level of customer satisfaction with their purchases. The data contains 17 columns and 1000 rows.
 
-![image](https://github.com/patelshubham91/SQL-Projects/blob/main/Amazon-sales-analysis-with-SQL/Amazon-sales-analysis-with-SQL-main/Table.jpg)
+![image](https://github.com/JDatchaneswari/amazon_sql_project/blob/main/Table.jpg)
 
 # ANALYSIS LIST
 ## Product Analysis:
@@ -44,7 +44,7 @@ Exploratory data analysis is done to answer the business questions and aims of t
 4. "Health and beauty" has the lowest total quantity sold (854 units) with  an average unit price of approximately $54.85, and an average customer rating of 7.00.
 5. Female customers who are members have the highest total sales, followed by male members. Non-member females and males have similar total sales.
 
-# RECOMMONDATIONS
+# RECOMMENDATIONS
 1. Increasing membership benefits could boost even more loyalty and sales. This can be done through personalized discounts, member-only sales events or reward points systems.
 2. Invest more in the marketing and stock of the 'Food and beverages' as it is the top performer. This could include themed promotions.
 3. Examine the non-member customers through marketing campaigns or incentive programs.
@@ -52,7 +52,5 @@ Exploratory data analysis is done to answer the business questions and aims of t
 5. In categories that are lagging in sales utilize customer feedback and sales data to inform the development of new products.
 
 # REQUIREMENTS
-### My SQL Workbench
+### PGADMIN 4
 For Data Analysis
-### Canva
-For Presenting Insights
